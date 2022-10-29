@@ -34,4 +34,4 @@ and
 sudo apt install python3-pip
 ```
 
- **[connect me](https://t.me/keagtorb)**
+ **[connect me](https://t.me/keagtorb79)**
